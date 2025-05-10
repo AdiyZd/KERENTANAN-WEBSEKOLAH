@@ -26,7 +26,7 @@ Laporan ini hanya untuk tujuan edukasi keamanan siber. **Jangan gunakan untuk ak
 - **Kerentanan**: -
 - **Observasi**: CEK PAKAI BRUIP SUITE LOGIN NYA DI GANTI ADMIN
   ``` burp suite
-  ` intercept dan ubah data user jadi admin dan coba login sebagai admin
+   intercept dan ubah data user jadi admin dan coba login sebagai admin
   ```
   
 ### 4. smkn2-wnb
@@ -34,7 +34,7 @@ Laporan ini hanya untuk tujuan edukasi keamanan siber. **Jangan gunakan untuk ak
 - **Kerentanan**: RENTAN SQL LOGIN
 - **Observasi**: 403
   ``` burp suite
-  ` intercept dan coba bypass 403 
+   intercept dan coba bypass 403 
   ```
 
 ### 5. smp.baiturrahman-df
@@ -42,7 +42,7 @@ Laporan ini hanya untuk tujuan edukasi keamanan siber. **Jangan gunakan untuk ak
 - **Kerentanan**: RENTAN SQL ' OR 1=1 #
 - **Observasi** : 403
   ``` burp suite
-  ` intercept dan coba bypass 403 
+   intercept dan coba bypass 403 
   ```
 
 ### 6. smkn1bukateja 
@@ -50,7 +50,7 @@ Laporan ini hanya untuk tujuan edukasi keamanan siber. **Jangan gunakan untuk ak
 - **Kerentanan**: RENTAN SQL DAN BYPASS 403
 - **Observasi** : BYPASS 403
    ``` burp suite
-  ` intercept dan coba bypass 403 
+   intercept dan coba bypass 403 
   ```
 
 ### 7. smkn2singaraja
@@ -58,7 +58,7 @@ Laporan ini hanya untuk tujuan edukasi keamanan siber. **Jangan gunakan untuk ak
 - **Kerentanan**: 403
 - **Observasi** : Belum di coba bypass
   ``` burp suite
-  ` intercept dan coba bypass 403 
+   intercept dan coba bypass 403 
   ```
 
 ### 8. www.smkn2singaraja.sch.id
@@ -66,7 +66,7 @@ Laporan ini hanya untuk tujuan edukasi keamanan siber. **Jangan gunakan untuk ak
 - **Kerentanan**: 403
 - **Observasi** : Belum di coba bypas dan sql
   ``` burp suite
-  ` intercept dan coba bypass 403 
+   intercept dan coba bypass 403 
   ```
 
 ### 9. smakstmariamalang.sch.id
@@ -74,7 +74,7 @@ Laporan ini hanya untuk tujuan edukasi keamanan siber. **Jangan gunakan untuk ak
 - **Kerentanan**: 403
 - **Obervasi** : Belum di coba sql dan belum bypass 403
   ``` burp suite
-  ` intercept dan coba bypass 403 
+   intercept dan coba bypass 403 
   ```
 
 ---
